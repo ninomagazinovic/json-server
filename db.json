@@ -3,5 +3,19 @@
         "version": "1.1",
         "pdfUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.pdf",
         "htmlUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.html"
-    }
+    },
+    "privacyStatements": [
+        {
+            "language": "en",
+            "version": "1.1",
+            "pdfUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.pdf",
+            "htmlUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.html"
+        },
+        {
+            "language": "ka",
+            "version": "1.1",
+            "pdfUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.pdf",
+            "htmlUrl": "https://basisbank.ge/PrivacyStatement/Privacy_Statement_geo.html"
+        }
+    ]
 }
